@@ -1,14 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="994fc9ec-28a8-41a3-8ec9-fe5bdbaf39d4" name="Changes" comment="" />
+    <list default="true" id="994fc9ec-28a8-41a3-8ec9-fe5bdbaf39d4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CheckTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CheckTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CustomerCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CustomerCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Digits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DigitsTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DigitsTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MenuItem.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LEc8cmWTzvWDo8xiGvWQTcE8RI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -22,6 +39,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="DigitsTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DigitsTester" />
+      <module name="RafidU7T3Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DigitsTester" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
